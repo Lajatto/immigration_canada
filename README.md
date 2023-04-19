@@ -22,7 +22,7 @@ During 2016, there was a decline in Filipinos obtaining foreign work permits in 
 
 <img src="5.jpg">
 
-It is also worth noting that Canada’s Express Entry draws were paused in late December. So with one of the most common ways for immigrants to start working in Canada on hold.
+It is also worth noting that Canada’s Express Entry draws were paused in late December 2020. So with one of the most common ways for immigrants to start working in Canada on hold.
 
 After 2020 a new trend of becoming a permanent resident in Canada started, the Student Visa route. The number of study permits approved saw an almost 250% increase from 2020 to 2021. In 2020, 4,400 study permits were approved while in 2021, 14,400 study permits were approved. Up until now this is still one of the most common entry-ways of Filipinos to Canada. 
 
