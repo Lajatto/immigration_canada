@@ -10,7 +10,7 @@ If you want to play around with the Looker dashboard that I made for this you ca
 
 <img src="1.jpg">
 
-### First off, my home country, the Philippines. 
+## First off, my home country, the Philippines. 
 
 <img src="3.jpg">
 
@@ -30,7 +30,7 @@ If it weren’t for the pandemic we would probably see a continuous upward trend
 
 This upwards trend in the number of Filipino study permit holders in Canada is expected to continue throughout 2023.
 
-### India
+## India
 
 <img src="4.jpg">
 
@@ -42,7 +42,7 @@ Indians possess attributes required by Immigration, Refugees and Citizenship Can
 
 Same story with the Philippines, steady influx of immigrants to Canada until the Express Entry pause and Covid happened. 
 
-### China
+## China
 
 <img src="2.jpg">
 
