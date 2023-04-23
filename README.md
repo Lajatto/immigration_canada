@@ -1,6 +1,6 @@
-## <a href="https://lajatto.github.io/">Back to homepage</a>
+# Canada Foreign Work and Study Permit Holders from 2015 - 2022.
 
-# immigration_canada
+## <a href="https://lajatto.github.io/">Back to homepage</a>
 
 ## India, China, and the Philippines are the top three sources of Study Permit and Foreign Work Permit holders in Canada from 2015 to 2022. I’m going to take a look at these 3 countries and their immigration trends. These three countries alone have a combined total of 1,760,495 citizens with either a study or foreign work permit in Canada. That is 51.32% of the total number of foreign students and workers in Canada. That’s why I got curious and wanted to find out the stories behind the data. 
 
