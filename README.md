@@ -1,4 +1,4 @@
-# Canada Foreign Work and Study Permit Holders from 2015 - 2022.
+# Canada Foreign Work and Study Permit Holders from 2015 - 2022
 
 ## <a href="https://lajatto.github.io/">Back to homepage</a>
 
